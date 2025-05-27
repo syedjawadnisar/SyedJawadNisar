@@ -11,7 +11,7 @@ To become associated with an organization where I can utilize my skills to enhan
 ### Skills
 ```markdown
 - Ruby on Rails
-- Turbo frames
+- Turbo
 - Vue.js (intermediate)
 - ReactJs
 - MySQL, Postgresql
