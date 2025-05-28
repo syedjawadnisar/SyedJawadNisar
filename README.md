@@ -34,18 +34,6 @@ To become associated with an organization where I can utilize my skills to enhan
 - Stripe
 - Handlebars.js
 --->
-### Experience
-# Cybros.Dev, junior Software Engineer (Intern)
-(mid june/2022 - mid sep/2022)
-It's a web development based company in Lahore and I'm working on RoR.
-
-# Cybros.Dev,  Software Engineer
-(mid sep/2022 - present)
-It's a web development based company in Lahore and I'm working on RoR. My responsibilities are here to architect the back end app and ensure all possible goodies for the app. 
-<!---
-# Xnrel Canada Inc., Remote — Sr. Front End Engineer (Team Lead)
-(mid 2019 - 2021)
-It's a Saas based product company based in Canada and I’m working on their Student Information System which is a replica of PeopleSoft by oracle. It is  a Cloud/Web based Reactjs Application that provides all features offered by PeopleSoft and with the addition of a shopping cart of courses and programs offered by Universities. My responsibilities are here to architect the front end app and ensure all possible goodies for the app. 
 
 
 Technologies used: React Js, Redux, ReactStrap Ui, lodash, Ruby On Rails
