@@ -3,7 +3,6 @@
 ### Senior Web Architect & Developer
 --->
 ### Software Engineer & Developer
-###### +92 309 7400161 | jawadnisar77@gmail.com
 
 ### Objective
 To become associated with an organization where I can utilize my skills to enhance the organization's reputation with better results and gain more experience.
