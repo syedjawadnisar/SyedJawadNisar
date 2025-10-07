@@ -11,8 +11,10 @@ To become associated with an organization where I can utilize my skills to enhan
 ```markdown
 - Ruby on Rails
 - Turbo
-- Vue.js (intermediate)
+- Vue.js
 - ReactJs
+- GoLang
+- GraphQL
 - MySQL, Postgresql
 - ASP .Net
 - RESTful API
@@ -27,9 +29,10 @@ To become associated with an organization where I can utilize my skills to enhan
 ```
 <!---
 - HTML5 and Canvas API,CSS3
-- GraphQL, Apollo Client, 
+- Apollo Client, 
 - Python (Django)
 - ReduxJs
+- php
 - Laravel
 - Stripe
 - Handlebars.js
